@@ -1,0 +1,1 @@
+This repository contains a Python code example that demonstrates a common programming error: the ZeroDivisionError.  The example shows how an empty list passed to a function calculating an average leads to this error.  A solution is also provided which uses proper error handling to prevent this.
